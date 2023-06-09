@@ -1,4 +1,4 @@
-# PerfectTower
+# Scripts/Utilities for The Perfect Tower 2 
 
 #### Quick Navigation
 - [All-Purpose Ability Caster](#all-purpose-ability-caster)
