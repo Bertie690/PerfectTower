@@ -10,7 +10,6 @@ Most of them don't require turno exec to work and should not be run while turbo 
 
 ## All-Purpose Ability Caster
 Ability caster that tries to cast every active module in the current blueprint one after the other, wrapping around once it hits the end. Works on any blueprint with any amount and combination of active modules, making it extremely versatile. Position based modules are being used at a random offset to the tower (adjustable by changing the PosOffset variable in line 1) to try and reduce overlap.
-(It also automatically upgrades the era dividers if you're in era as an added bonus.)
 
 Script will skip to the next active module if the current one to be casted would be useless (like using Dispel without any debuffs) or shouldn't be spammed (examples include reboot, redirect, rak's curse, google's influence, etc). 
 
@@ -25,22 +24,22 @@ Press 1 to start a copy of the script, press M to stop them all. Scripts will ru
 
 ### IMPORT CODES
 
-13 line:
+11 line:
 ```
 _____
 ```
 
-17 line:
+15 line:
 ```
 _____
 ```
 
-21 line:
+19 line:
 ```
 _____
 ```
 
-25 line: 
+23 line: 
 ```
 _____
 ```
