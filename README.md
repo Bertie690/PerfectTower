@@ -24,22 +24,23 @@ Press 1 to start a copy of the script, press M to stop them all. Scripts will ru
 
 ### IMPORT CODES
 
-11 line:
+12 line:
 ```
-_____
-```
-
-15 line:
-```
-_____
+[Tower Tester - 12 line.txt](https://github.com/Bertie690/PerfectTower/files/11708627/Tower.Tester.-.12.line.txt)
 ```
 
-19 line:
+16 line:
 ```
-_____
+[Tower Tester - 16 line.txt](https://github.com/Bertie690/PerfectTower/files/11708632/Tower.Tester.-.16.line.txt)
+
 ```
 
-23 line: 
+20 line:
 ```
-_____
+[Tower Tester - 20 line.txt](https://github.com/Bertie690/PerfectTower/files/11708636/Tower.Tester.-.20.line.txt)
+```
+
+24 line: 
+```
+[Tower Tester - 24 line.txt](https://github.com/Bertie690/PerfectTower/files/11708638/Tower.Tester.-.24.line.txt)
 ```
