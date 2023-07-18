@@ -26,24 +26,16 @@ Press 1 to start a copy of the script, press M to stop them all. Scripts will ru
 ### IMPORT CODES
 
 12 line:
-```
 [Tower Tester - 12 line.txt](https://github.com/Bertie690/PerfectTower/files/11746871/Tower.Tester.-.12.line.txt)
-```
 
 16 line:
-```
 [Tower Tester - 16 line.txt](https://github.com/Bertie690/PerfectTower/files/11746872/Tower.Tester.-.16.line.txt)
-```
 
 20 line:
-```
 [Tower Tester - 20 line.txt](https://github.com/Bertie690/PerfectTower/files/11746873/Tower.Tester.-.20.line.txt)
-```
 
 24 line: 
-```
 [Tower Tester - 24 line.txt](https://github.com/Bertie690/PerfectTower/files/11746874/Tower.Tester.-.24.line.txt)
-```
 
 ## Accel Farm Locker
 AI script to automate accel farming for getting to MT13. 
